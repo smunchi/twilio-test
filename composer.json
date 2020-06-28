@@ -1,0 +1,12 @@
+{
+    "name": "root/twilio-test",
+    "authors": [
+        {
+            "name": "Md. Salahuddin",
+            "email": "salah_cse_mbstu@yahoo.com"
+        }
+    ],
+    "require": {
+        "twilio/sdk": "^6.8"
+    }
+}
